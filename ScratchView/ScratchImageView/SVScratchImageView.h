@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  SVScratchImageView.h
 //  ScratchView
 //
 //  Created by sirko on 10/01/2015.
@@ -8,7 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface SVScratchImageView : UIImage
 
 @end
-
